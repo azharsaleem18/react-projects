@@ -1,0 +1,10 @@
+.todo__modal {
+    top: 20% !important;
+    left: 10% !important;
+}
+.todo__modalForm {
+    margin-top: 20px;
+}
+.todo__submit {
+    margin-left: 20px;
+}
