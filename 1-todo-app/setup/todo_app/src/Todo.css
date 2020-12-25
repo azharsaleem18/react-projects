@@ -1,0 +1,11 @@
+.todo__list {
+    margin-top: 20px;
+}
+.todo__modal {
+    top: 20% !important;
+    left: 30% !important;
+}
+.todo__updateBtn {
+    margin: 20px !important;
+    justify-content: center !important;
+}
