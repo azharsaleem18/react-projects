@@ -12,3 +12,12 @@
 .app__signinBtn {
   margin-right: 10px !important;
 }
+
+.app__siginForm {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.app__formField {
+  margin-bottom: 15px !important;
+}

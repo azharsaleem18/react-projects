@@ -14,3 +14,14 @@
 .post__text {
  margin: 20px 0px 20px 20px
 }
+.post__text {
+    font-weight: normal;
+    padding: 5px;
+}
+.post__form {
+    display: flex;
+    margin-top: 20px;
+}
+.post__input {
+    flex: 1;
+}
